@@ -2,7 +2,7 @@
 
 
 
-np.GREETINGS={HOLA , COMO ESTAS, NAMASTE, BONJOUR, SALAM} 
+np.GREETINGS=('HELLO' ,'HOLA' ,'COMO ESTAS', 'NAMASTE', 'BONJOUR', 'SALAM', 'SHALOM') 
 
 
 - 🔭 I’m currently working on ...Exploratory Analysis
