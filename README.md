@@ -1,7 +1,7 @@
-![Header](./github-header-image-2.png)
+[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZO4FB7PyqiQyjWEXY-5_bLyhHIYOMD0H3cA&usqp=CAU)]
 <h1 align="center">Hi 👋, I'm Subhajit Pal (Rexter)</h1>
 <h3 align="center">A Data Science/Analytics aspirant from India, enhancing my analytics skills on a daily basis. Meanwhile Tea>>Coffee for me</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Findoanalytica.com%2Fstatic%2Fimages%2Fdata-science-2.gif&imgrefurl=https%3A%2F%2Findoanalytica.com%2Fdata-science%2F&tbnid=IA-aRpasDaggTM&vet=12ahUKEwjstr3di6D8AhXTjtgFHUMqBn4QMygZegUIARDCAg..i&docid=czKCCTgzLb7ltM&w=640&h=640&q=data%20scientist%20animated%20image%20gif&client=safari&ved=2ahUKEwjstr3di6D8AhXTjtgFHUMqBn4QMygZegUIARDCAg>
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9jKJLlgDfgaGkK6bbsVmDIwATL3pwSE5NDQ&usqp=CAU">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhajitpal555&label=Profile%20views&color=0e75b6&style=flat" alt="subhajitpal555" /> </p>
