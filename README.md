@@ -1,6 +1,8 @@
    [![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZO4FB7PyqiQyjWEXY-5_bLyhHIYOMD0H3cA&usqp=CAU)]
 <h1 align="center">Hi 👋, I'm Subhajit Pal (Rexter)</h1>
-<h3 align="center">A Data Science/Analytics aspirant from India, enhancing my analytics skills on a daily basis.Postman Student Expert. Community Manager :) Meanwhile Tea>>Coffee for me</h3>
+<h3 align="center">A Data Science/Analytics aspirant from India, enhancing my analytics skills on a daily basis. Meanwhile Tea>>Coffee for me</h3>
+<h3 align="center">Postman Student Expert :)</h3>
+<h3 align="center">Community Manager :)</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9jKJLlgDfgaGkK6bbsVmDIwATL3pwSE5NDQ&usqp=CAU">
 
 
