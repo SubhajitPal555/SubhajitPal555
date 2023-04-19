@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Parkinson-Predictor](https://github.com/SubhajitPal555/Parkinson-Predictor)
+- 🔭 I’m currently working on [ParkWhere.io](https://github.com/SubhajitPal555/ParkWhere.io)
 
 - 🌱 I’m currently learning **Data Science, Data Analysis, Feature Engineering, Visualisations, SAS**
 
